@@ -6,6 +6,6 @@
 </div>
 <div align="center"> 
    <h4>🛠️Tool</h4>
-   <img src="https://img.shields.io/badge/Visualstudio-2C2255?style=for-the-badge&logo=Visualstudio&logoColor=blue">
+   <img src="https://img.shields.io/badge/visualstudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
 </div>
 ****
